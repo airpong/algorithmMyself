@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Program Files\\Python35\\python.exe"
+    "python.pythonPath": "/Users/hcu418/.pyenv/versions/3.6.3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
